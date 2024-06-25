@@ -1,5 +1,5 @@
 ---
-title: Airbnb Qabot
+title: Airbnb QA Bot
 emoji: 🚀
 colorFrom: green
 colorTo: pink
